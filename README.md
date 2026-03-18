@@ -1,8 +1,8 @@
 ## Hi I,m Boranbaeva Jazira 👋
 
 
-  Web developer student 
-  😍 About me:
+ ## Web developer student 
+ ## 😍 About me:
 - 🏦 I am a student at **Muuhammad al-Xorezmiy miyrasxorlari**
 - 💻 I am currently learning **HTML5** and **CSS3**
 - ⚡ I love solving logic puzzles and building "hacker-style" web projects
