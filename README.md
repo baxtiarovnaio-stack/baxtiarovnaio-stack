@@ -1,5 +1,9 @@
 ## Hi I,m Boranbaeva Jazira 👋
 
+
+### Web developer student 
+## 😍 About me:
+
 <!--
 **baxtiarovnaio-stack/baxtiarovnaio-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
