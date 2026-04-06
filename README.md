@@ -1,4 +1,4 @@
-Hi, I'm Boranbaeva Jazira
+Hi, I'm Boranbaeva Jazira 🤚
 
 Software Engineer Student
 
