@@ -15,7 +15,6 @@ Software Engineer Student
 🚀 My Skills:
 
 
-Areas of Interest:
 
 📱 Android App Development
 
